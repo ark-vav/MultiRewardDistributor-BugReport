@@ -154,7 +154,3 @@ The contract faces reward manipulation risks (Issue 1) and misallocation potenti
 - Consider restricting reward tokens to trusted implementations.
 
 **Closing Note**: Spotted these while going through the code—figured they’re worth flagging fast. Should help keep the rewards on track.
-```
-
-
-
